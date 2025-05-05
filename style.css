@@ -1,1 +1,45 @@
+body{
+    background-color:rgb(241, 224, 186);
+    width:560px;
+  }
+  
+  
+
+  
+  a{
+    border-style:double;
+    color:black;
+    border-radius:10px;
+  }
+  .img{
+    height:500px;
+    width:500px;
+    border-style:double;
+    border-radius:10px;
+  }
+  p{
+    color:black;
+    font-family:'GODOFWAR';
+    font-size:20px;
+    border-style:double;
+    border-radius:10px;
+    background-color:grey
+    
+  }
+  .buttons{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    background-color:white;
+    border-style:solid;
+    color:white;
+  }
+  h1{
+    border-style:double;
+    
+  }
+@font-face{
+    font-family:GODOFWAR;
+    src: URL(GODOFWAR.TTF);
+}
 
